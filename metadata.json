@@ -1,0 +1,5 @@
+{
+  "name": "PixelPerfect - Screen Tester",
+  "description": "Professional screen testing tool for detecting dead pixels, backlight bleeding, and color accuracy.",
+  "requestFramePermissions": []
+}

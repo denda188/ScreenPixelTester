@@ -1,2 +1,8 @@
-# ScreenPixelTester
-在线屏幕检测，测试屏幕是否有相似缺陷.
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+1. Install dependencies:
+   `npm install`
+2. Run the app:
+   `npm run dev`
