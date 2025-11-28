@@ -1,5 +1,5 @@
 {
-  "name": "pixel-perfect-screen-test",
+  "name": "screentester",
   "compatibility_date": "2024-11-28",
   "assets": {
     "directory": "./dist"
