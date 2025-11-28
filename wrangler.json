@@ -1,0 +1,10 @@
+{
+  "name": "pixel-perfect-screen-test",
+  "compatibility_date": "2024-11-28",
+  "assets": {
+    "directory": "./dist"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
